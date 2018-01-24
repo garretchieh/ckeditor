@@ -5,6 +5,8 @@ src ckeditor.js
 
 onclick function
 
-getting data >> var data = CKEDITOR.instances["editor"].getData();
+getting data >> 
+var data = CKEDITOR.instances["editor"].getData();
 
-setting data >> CKEDITOR.instances["editor"].setData('<h1></h1>');
+setting data >>
+CKEDITOR.instances["editor"].setData('<h1></h1>');
